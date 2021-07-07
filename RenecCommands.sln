@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenecCommands", "RenecCommands\RenecCommands.csproj", "{0EF7AB7A-A018-4AD6-8BDC-AEE09A1F6314}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF7AB7A-A018-4AD6-8BDC-AEE09A1F6314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF7AB7A-A018-4AD6-8BDC-AEE09A1F6314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF7AB7A-A018-4AD6-8BDC-AEE09A1F6314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF7AB7A-A018-4AD6-8BDC-AEE09A1F6314}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF9B9E30-175C-4616-A357-F82B703D9CCF}
+	EndGlobalSection
+EndGlobal
