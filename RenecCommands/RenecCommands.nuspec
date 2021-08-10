@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.3</version>
+    <title>$title$</title>
+    <authors>Renecsoft</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/renecsoft/OpenBots.RenecCommands</projectUrl>
+    <description>Custom Commands for OpenBots Studio</description>
+    <releaseNotes>Added DownloadCommand.</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>OpenBots Commands</tags>
+  </metadata>
+</package>
